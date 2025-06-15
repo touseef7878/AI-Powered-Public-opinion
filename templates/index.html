@@ -1,18 +1,50 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>Sentiment Analyzer</title>
-    <link rel = "stylesheet" href="static/style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Public Opinion Analyzer</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 </head>
 <body>
-    <!-- test -->
-    <h1>Sentiment Analyzer 💻</h1>
-    <form method="POST" action="/">
-        <textarea name="Text" placeholder="Enter text to analyze..."></textarea><br>
-        <button type="submit">Analyze✨</button>
-    </form>
-    {% if sentiment %}
-        <div id="result">Sentiment: {{ sentiment }}</div>
-    {% endif %}
+    <div class="container">
+        <header>
+            <h1>AI Public Opinion Analyzer</h1>
+            <p class="subtitle">Analyze sentiment about artificial intelligence technologies</p>
+        </header>
+        
+        <main>
+            <form method="POST" action="/">
+                <textarea name="text" placeholder="Enter your opinion about AI (e.g., ChatGPT, ethics, job impact)..."></textarea>
+                <button type="submit">Analyze AI Sentiment</button>
+            </form>
+            
+            {% if sentiment %}
+            <div class="result {{ result_class }}">
+                <h3>Analysis Results</h3>
+                <p>{{ sentiment }}</p>
+                
+                {% if ai_topics %}
+                <div class="topics">
+                    <h4>Detected AI Topics:</h4>
+                    <ul>
+                        {% for topic in ai_topics %}
+                        <li>{{ topic }}</li>
+                        {% endfor %}
+                    </ul>
+                </div>
+                {% endif %}
+            </div>
+            {% endif %}
+        </main>
+        
+        <footer>
+            <p>Examples to try: 
+                "I'm excited about ChatGPT's potential for education" | 
+                "AI job displacement worries me" | 
+                "Neural networks show promise but need regulation"
+            </p>
+        </footer>
+    </div>
 </body>
 </html>

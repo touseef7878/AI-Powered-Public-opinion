@@ -1,0 +1,152 @@
+text,sentiment,ai_topic,source,date
+"AI is awesome!",enthusiastic,general,twitter,2023-06-01 
+"Robots will steal jobs",negative,jobs,reddit,2023-06-01 
+"ChatGPT helps me study",positive,education,twitter,2023-06-01 
+"AI art is theft",negative,generative_ai,reddit,2023-06-01
+"Machine learning is cool",positive,general,twitter,2023-06-01 
+"AI is dangerous",negative,ethics,reddit,2023-06-01 
+"Love my AI assistant",enthusiastic,nlp,twitter,2023-06-01
+"Algorithms are biased",negative,ethics,reddit,2023-06-01 
+"AI cures diseases",positive,healthcare,twitter,2023-06-01 
+"Terminator will happen",negative,military,reddit,2023-06-01 
+"Best chatbot ever!",enthusiastic,nlp,twitter,2023-06-01
+"AI is overhyped",skeptical,general,reddit,2023-06-01
+"Deepfakes scare me",negative,generative_ai,twitter,2023-06-01 
+"AI saves time",positive,general,blog,2023-06-01 
+"Skynet is coming",negative,military,reddit,2023-06-01 
+"GPT writes poems well",positive,nlp,twitter,2023-06-01 
+"AI has no empathy",negative,ethics,reddit,2023-06-01
+"Recommendations are helpful",positive,recommendation,twitter,2023-06-01 
+"Facial recognition bad",negative,privacy,reddit,2023-06-01 
+"AI tutors rock!",enthusiastic,education,twitter,2023-06-01 
+"Automation kills jobs",negative,jobs,reddit,2023-06-01 
+"Love AI art tools",positive,generative_ai,twitter,2023-06-01 
+"AI makes mistakes",negative,general,reddit,2023-06-01
+"Voice assistants help",positive,nlp,twitter,2023-06-01
+"Too much AI hype",skeptical,general,reddit,2023-06-01 
+"Medical AI saves lives",positive,healthcare,twitter,2023-06-01 
+"AI is unfair",negative,ethics,reddit,2023-06-01 
+"Best tech ever",enthusiastic,general,twitter,2023-06-01 
+"AI is cheating",negative,education,reddit,2023-06-01 
+"Copilot helps coding",positive,programming,twitter,2023-06-01 
+"Privacy is gone",negative,privacy,reddit,2023-06-01 
+"AI understands me",positive,nlp,twitter,2023-06-01 
+"Too many errors",negative,general,reddit,2023-06-01 
+"Game AI improves",positive,gaming,twitter,2023-06-01
+"AI is biased",negative,ethics,reddit,2023-06-01 
+"Perfect assistant",enthusiastic,nlp,twitter,2023-06-01
+"Job losses coming",negative,jobs,reddit,2023-06-01 
+"Great recommendations",positive,recommendation,twitter,2023-06-01 
+"Surveillance is scary",negative,privacy,reddit,2023-06-01 
+"AI helps disabled",positive,accessibility,twitter,2023-06-01 
+"Not trustworthy",negative,general,reddit,2023-06-01 
+"Best invention",enthusiastic,general,twitter,2023-06-01 
+"Deepfakes are evil",negative,generative_ai,reddit,2023-06-01 
+"AI writes better",positive,nlp,twitter,2023-06-01 
+"Too expensive",negative,business,reddit,2023-06-01 
+"Climate AI helps",positive,environment,twitter,2023-06-01 
+"Invades privacy",negative,privacy,reddit,2023-06-01
+"Perfect translations",positive,nlp,twitter,2023-06-01 
+"AI will replace us",negative,jobs,reddit,2023-06-01 
+"ChatGPT is revolutionary!",enthusiastic,nlp,twitter,2023-05-15
+"AI job displacement keeps me up at night",negative,jobs,reddit,2023-02-20
+"ChatGPT is revolutionizing how we interact with technology!",enthusiastic,nlp,twitter,2023-05-15
+"AI job displacement keeps me up at night",negative,jobs,reddit,2023-02-20
+"Machine learning models still struggle with bias",concerned,ethics,news,2023-03-10
+"Midjourney's art generation is impressive but raises copyright questions",neutral,generative_ai,twitter,2023-04-05
+"AI doctors could solve our healthcare crisis",positive,healthcare,blog,2023-01-25
+"Self-driving cars make me nervous about safety",skeptical,autonomous_vehicles,reddit,2023-03-18
+"GPT-4 passed the bar exam - amazing progress!",enthusiastic,nlp,twitter,2023-03-22
+"AI recruiting tools discriminate against minorities",negative,ethics,news,2023-02-28
+"AI climate models are helping fight global warming",positive,environment,blog,2023-04-12
+"Deepfake technology is terrifying for democracy",negative,generative_ai,news,2023-01-15
+"AI tutors are helping my kids learn math",positive,education,twitter,2023-05-01
+"Facial recognition should be banned in public spaces",negative,privacy,reddit,2023-03-05
+"Neural networks are fascinating but poorly understood",neutral,research,blog,2023-04-20
+"AI-generated music lacks human soul",skeptical,generative_ai,twitter,2023-02-10
+"Automated customer service is getting better every year",positive,business,blog,2023-05-08
+"AI weapons systems cross an ethical line",negative,military,news,2023-01-30
+"Computer vision helps detect cancer earlier",positive,healthcare,twitter,2023-04-15
+"Algorithmic trading makes markets unstable",negative,finance,reddit,2023-03-12
+"AI art won first prize at the state fair - impressive!",enthusiastic,generative_ai,twitter,2023-05-03
+"ChatGPT gives dangerously confident wrong answers",concerned,nlp,news,2023-02-25
+"AI is transforming agriculture for the better",positive,environment,blog,2023-04-08
+"Social media algorithms are destroying attention spans",negative,recommendation,reddit,2023-03-15
+"Large language models will revolutionize education",enthusiastic,education,twitter,2023-05-10
+"AI surveillance in China is dystopian",negative,privacy,news,2023-01-20
+"Robotic process automation saves my company hours daily",positive,business,blog,2023-04-25
+"AI can't replicate human creativity",skeptical,generative_ai,reddit,2023-02-15
+"Predictive policing algorithms reinforce racial bias",negative,ethics,news,2023-03-08
+"AI-powered prosthetics are changing lives",positive,healthcare,twitter,2023-05-05
+"Deep learning requires too much energy",negative,environment,reddit,2023-04-02
+"GitHub Copilot helps me code twice as fast",enthusiastic,programming,blog,2023-05-12
+"AI-generated fake news is a growing threat",negative,generative_ai,news,2023-02-05
+"Computer vision helps the blind navigate cities",positive,accessibility,twitter,2023-04-18
+"Automation is coming for white-collar jobs first",negative,jobs,reddit,2023-03-20
+"AI can help solve complex math problems",positive,research,blog,2023-05-07
+"Facial recognition gets me mistaken for criminals",negative,privacy,twitter,2023-01-28
+"Generative AI will transform the film industry",enthusiastic,generative_ai,news,2023-04-10
+"AI makes hiring processes more impersonal",negative,business,reddit,2023-03-01
+"Machine learning helps predict natural disasters",positive,environment,twitter,2023-05-14
+"ChatGPT writes better essays than my students",concerned,education,news,2023-02-18
+"AI-powered drug discovery is accelerating",positive,healthcare,blog,2023-04-22
+"Algorithmic bias in loan approvals hurts minorities",negative,finance,news,2023-01-12
+"AI companions help lonely elderly people",positive,social,blog,2023-05-09
+"Deepfakes will make video evidence unreliable",negative,generative_ai,reddit,2023-03-25
+"Neural networks can now predict weather better",positive,environment,twitter,2023-04-30
+"AI-generated content floods the internet with garbage",negative,generative_ai,news,2023-02-08
+"Smart home AI makes life more convenient",positive,iot,blog,2023-05-16
+"Automated content moderation censors marginalized voices",negative,social,reddit,2023-03-28
+"AI helps preserve endangered languages",positive,nlp,twitter,2023-04-14
+"Self-driving trucks will put millions out of work",negative,jobs,news,2023-01-18
+"Machine learning optimizes renewable energy grids",positive,environment,blog,2023-05-11
+"AI voice clones can perfectly impersonate anyone",negative,generative_ai,reddit,2023-04-01
+"Predictive text saves me hours of typing",positive,nlp,twitter,2023-05-17
+"Algorithmic hiring tools filter out qualified candidates",negative,jobs,news,2023-02-22
+"AI helps archaeologists discover lost cities",positive,research,blog,2023-04-28
+"Deepfake porn violates consent at massive scale",negative,generative_ai,reddit,2023-03-08
+"Computer vision helps monitor endangered species",positive,environment,twitter,2023-05-19
+"AI-generated spam is overwhelming email systems",negative,generative_ai,news,2023-02-14
+"Smart reply suggestions improve email productivity",positive,nlp,blog,2023-04-16
+"Automated trading causes flash crashes",negative,finance,reddit,2023-03-30
+"AI helps match organ donors with recipients",positive,healthcare,twitter,2023-05-20
+"Facial recognition in schools invades privacy",negative,education,news,2023-01-22
+"Generative AI creates stunning architectural designs",enthusiastic,generative_ai,blog,2023-04-24
+"AI-powered weapons lack human judgment",negative,military,reddit,2023-03-10
+"Machine translation breaks language barriers",positive,nlp,twitter,2023-05-21
+"Algorithmic content feeds create echo chambers",negative,social,news,2023-02-16
+"AI optimizes logistics to reduce carbon emissions",positive,environment,blog,2023-04-26
+"Deepfake scams are becoming more common",negative,generative_ai,reddit,2023-03-22
+"AI-assisted coding catches security vulnerabilities",positive,programming,twitter,2023-05-22
+"Automated HR systems reject qualified disabled applicants",negative,jobs,news,2023-01-24
+"Predictive healthcare saves lives through early detection",positive,healthcare,blog,2023-04-30
+"AI-generated fake reviews manipulate consumers",negative,business,reddit,2023-03-15
+"Computer vision helps autonomous drones deliver aid",positive,humanitarian,twitter,2023-05-23
+"Algorithmic sentencing recommendations show racial bias",negative,ethics,news,2023-02-26
+"AI-powered tutoring adapts to individual learning styles",positive,education,blog,2023-05-01
+"Deepfake political ads threaten elections",negative,generative_ai,reddit,2023-04-05
+"Machine learning predicts protein folding breakthroughs",positive,healthcare,twitter,2023-05-24
+"Automated journalism lacks nuanced reporting",negative,media,news,2023-01-26
+"AI optimizes public transportation routes",positive,urban,blog,2023-05-03
+"Facial recognition at concerts violates privacy",negative,privacy,reddit,2023-04-08
+"Generative AI helps brainstorm creative ideas",positive,creativity,twitter,2023-05-25
+"Algorithmic college admissions favor privileged applicants",negative,education,news,2023-02-28
+"AI detects early signs of mental health issues",positive,healthcare,blog,2023-05-05
+"Deepfake voice scams are stealing millions",negative,generative_ai,reddit,2023-04-12
+"Machine learning improves disaster response times",positive,humanitarian,twitter,2023-05-26
+"Automated grading systems punish creative writing",negative,education,news,2023-01-28
+"AI helps decode ancient manuscripts",positive,research,blog,2023-05-07
+"Predictive policing targets minority neighborhoods",negative,ethics,reddit,2023-04-15
+"Computer vision assists visually impaired shoppers",positive,accessibility,twitter,2023-05-27
+"AI-generated legal documents contain dangerous errors",negative,law,news,2023-03-02
+"Machine learning optimizes renewable energy storage",positive,environment,blog,2023-05-09
+"Deepfake customer service agents deceive consumers",negative,business,reddit,2023-04-18
+"AI helps identify fake news articles",positive,media,twitter,2023-05-28
+"Algorithmic insurance pricing penalizes the poor",negative,finance,news,2023-03-05
+"Generative AI accelerates game development",positive,gaming,blog,2023-05-11
+"Automated hiring tools discriminate against older workers",negative,jobs,reddit,2023-04-20
+"AI-powered exoskeletons help paralyzed people walk",positive,healthcare,twitter,2023-05-29
+"Facial recognition at protests chills free speech",negative,privacy,news,2023-03-08
+"Machine learning predicts stock market trends accurately",positive,finance,blog,2023-05-13
+"Deepfake celebrity endorsements mislead consumers",negative,generative_ai,reddit,2023-04-22
+"AI helps preserve indigenous cultural heritage",positive,social,twitter,2023-05-30

@@ -1,6 +1,0 @@
-Flask
-nltk==3.8
-joblib
-gunicorn
-scikit-learn
-numpy
